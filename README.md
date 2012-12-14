@@ -3,7 +3,7 @@ S3SignURL
 
 This Signs S3 URL in a easy windows GUI
 
-Taret Windows/GUI/S3
+Taret Windows/GUI/S3/C#/.NET/v3.5
 This signs a S3 URL
 Add an expire time
 
