@@ -27,16 +27,3 @@ Enjoy:)
 This work is under http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 This is free to use and deploy, but not for commercial use.
-
-<!-- Piwik -->
-<script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://trac.digitalbodyguard.com/76RF6676F/" : "http://trac.digitalbodyguard.com/76RF6676F/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script type="text/javascript">
-try {
-var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 2);
-piwikTracker.trackPageView();
-piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://trac.digitalbodyguard.com/76RF6676F/piwik.php?idsite=2" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tracking Code -->
