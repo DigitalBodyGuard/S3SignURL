@@ -10,7 +10,8 @@ This signs a S3 URL
 
 Add an expire time
 
-<img src="http://www.digitalbodyguard.com//images/S3SignURL.png" alt="S3SignURL GUI Image" width="538" height="425">
+![S3SignURL GUI Image ScreenShot](http://www.digitalbodyguard.com//images/S3SignURL.png "S3SignURL GUI Image ScreenShot")
+
 
 It makes something like this https://bucket.s3.amazonaws.com/folder/folder/file.html?AWSAccessKeyId=AAIJBKUWCWE5AIDP3GMV&Expires=2133721337&Signature=zpN5I/VVYZ0tWBKcxmIGbkTeJ0RN/X+aFu6WD2UN
 
