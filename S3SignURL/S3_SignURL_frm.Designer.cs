@@ -230,9 +230,9 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::s3_SignURL.Properties.Resources.guy_00;
-            this.pictureBox2.Location = new System.Drawing.Point(356, 136);
+            this.pictureBox2.Location = new System.Drawing.Point(349, 136);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(161, 227);
+            this.pictureBox2.Size = new System.Drawing.Size(175, 227);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 17;
             this.pictureBox2.TabStop = false;
@@ -254,7 +254,6 @@
             this.tabPage_SIGN_URL.CausesValidation = false;
             this.tabPage_SIGN_URL.Controls.Add(this.tb_days_to_expire);
             this.tabPage_SIGN_URL.Controls.Add(this.label13);
-            this.tabPage_SIGN_URL.Controls.Add(this.pictureBox2);
             this.tabPage_SIGN_URL.Controls.Add(this.label10);
             this.tabPage_SIGN_URL.Controls.Add(this.label7);
             this.tabPage_SIGN_URL.Controls.Add(this.label9);
@@ -272,6 +271,7 @@
             this.tabPage_SIGN_URL.Controls.Add(this.tb_bucket);
             this.tabPage_SIGN_URL.Controls.Add(this.label3);
             this.tabPage_SIGN_URL.Controls.Add(this.cb_useExpireTime);
+            this.tabPage_SIGN_URL.Controls.Add(this.pictureBox2);
             this.tabPage_SIGN_URL.Location = new System.Drawing.Point(4, 22);
             this.tabPage_SIGN_URL.Name = "tabPage_SIGN_URL";
             this.tabPage_SIGN_URL.Padding = new System.Windows.Forms.Padding(3);
@@ -357,6 +357,7 @@
             this.Controls.Add(this.tabControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "S3_SignURL_frm";
             this.Text = "S3 SignURL - v1.0";
             this.Load += new System.EventHandler(this.S3_SignURL_frm_Load);
